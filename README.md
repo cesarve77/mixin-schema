@@ -1,4 +1,4 @@
-# mixin-promise
+# mixin-schema
 
 Use Simple Schema direct in your method
 
